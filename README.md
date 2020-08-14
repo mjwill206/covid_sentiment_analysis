@@ -18,11 +18,65 @@ The COVID-19 response has been largely regional and state-based in nature. Some 
 ### Data Sources, Cleaning, Dictionaries & Exploratory Data Analysis (EDA):
 #### Twitter Data and EDA:
 We gathered Twitter data from https://ieee-dataport.org/open-access/coronavirus-covid-19-geo-tagged-tweets-dataset which is a subset of https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset. Both of these datasets were put together by Rabindra Lamsal School of Computer and Systems Sciences, JNU. We decided that we would use the subset because our specific problem statement requires geographic information and the subset filtered out non-geotagged tweets for us. The data taken from this site came in the form of 1 csv of tweet IDs per day. A hydrator was required to gather all the data back in by using the tweet IDs. The hydrator we used was from Documenting the Now. (2020). Hydrator [Computer Software]. Retrieved from https://github.com/docnow/hydrator. After retrieving all of the data from the hydrator, the next step was to concatenate all of the daily csvs into one larger July csv. We found that most of the columns of data that we retrieved from the hydrator was unnecessary and kept only information pertaining to location and text. Additionally, we removed all of the remaining tweets that were not from U.S. states.
+
+The data dictionary is below:
+
+|**Feature**|**Type**|**Description**|
+|---|---|---|
+|**text**| string | Tweet text from the user.  |
+|**favorite_count**| int | Count of how many times a tweet was favorited. |
+|**retweet_count**| int |  Count of how many times a tweet was ‘retweeted’ or shared. |
+|**state**| string |  The U.S. state that the user tweeted from. |
+|**created_at**| string |  The time and date that the tweet was posted. |
+|**twitter_neg**| float |  VADER negative sentiment score for twitter posts. |
+|**twitter_neu**| float |  VADER neutral sentiment score for twitter posts. |
+|**twitter_pos**| float | VADER positive sentiment score for twitter posts. |
+|**twitter_compound**| float |  VADER compound sentiment score for twitter posts. |
+|**dum_reopening**| int |  State policy on whether they had reopened. |
+|**dum_stay_home**| int |  State policy on whether a stay at home order is in effect. |
+|**dum_gatherings**| int |  State policy on whether gatherings are permitted. |
+|**dum_bars**| int |  State policy on whether bars are permitted to reopen. |
+|**dum_masks**| int |  State policy on whether masks are required in public. |
+|**dum_restaurants**| int |  State policy on whether restaurants are permitted to reopen. |
+|**dum_emergency_declaration**| int |  States that have declared an emergency. |
+|**death_tot**| int |  Total deaths within the state to date. |
+|**hosp_tot**| int |  Total hospitalizations within the state to date. |
+|**pos_tot**| int |  Total positive test cases within the state to date. |
+|**test_tot**| int |  Total tests issued by the state. |
+|**pos_test_rate**| float |  Rate of positive test results within the state. |
+|**pos_or_neg_sent**| string | Binary positive or negative sentiment within the state based off of VADER scores on social media posts. |
+
+
  
 #### Reddit Data and EDA:
 Reddit data was compiled using the Pushshift API. On the Reddit website, the majority of the coronavirus or COVID-19 related posts are categorized into subreddits for each state. Searches on Reddit were conducted using the state’s full name, abbreviated name, “coronavirus”, and/or “COVID-19”. Subreddit posts were only pulled for the month of July for analysis. Once the posts were pulled, all 50 states including Washington DC were compiled into a single data frame for cleaning and EDA. 
  
 For the EDA process, a variety of features were assessed and visualized. These features include 1) the number of posts or tweets per state, 2) word counts for each subreddit title and Twitter, 3) most frequent words across each state for each platform, and 4) the most frequent bi-grams across each platform across the US as a whole. 
+
+The data dictionary is below:
+
+|**Feature**|**Type**|**Description**|
+|---|---|---|
+|**reddit_neg**|float| Negative VADER sentiment score for Reddit posts  |
+|**reddit_neu**|float| Neutral VADER sentiment score for Reddit posts  |
+|**reddit_pos**|float| Positive VADER sentiment score for Reddit posts  |
+|**reddit_compound**|float| Compound VADER sentiment score for Reddit posts  |
+|**text**|string| Reddit title text from each Reddit post |
+|**state**| string|Coronavirus subreddit posts linked by US State |
+|**dum_reopening**| int|A state’s policy on the status of reopening |
+|**dum_stay_home**|int| A state’s stay at home order |
+|**dum_gatherings**| int|A state’s policy regarding bans for large gathering |
+|**dum_restaurants**| int|A state’s limits to restaurant closures and guest limit |
+|**dum_bars**| int|A state’s limits on bar closures |
+|**dum_masks**| int|A state’s policy regarding wearing face masks |
+|**dum_emergency_declaration**| int|A state’s emergency declaration status regarding COVID-19 |
+|**death_tot**| int|Total deaths by state due to COVID-19 for the month of July |
+|**hosp_tot**| int|Total hospitalizations due to COVID-19 for the month of July |
+|**pos_tot**| int|Total individuals who tested positive with COVID-19 for the month of July |
+|**test_tot**| int|Total COVID-19 tests overall for the month of July |
+|**pos_test_rate**| float|The rate of positive COVID-19 tests divided by total tests taken for the month of July |
+|**pos_or_neg_sent**| string | Positive or negative sentiment scores. Ex. positive score > negative score = ‘pos’ |
+
  
 #### Policy Data:
 State policy data was taken from https://www.kff.org/coronavirus-covid-19/issue-brief/state-data-and-policy-actions-to-address-coronavirus/ and converted into a pandas dataframe so that we could compare policy, health, and social media data side by side. The csv included policy on reopening, stay at home orders, emergency declaration, large gatherings, and public mask requirements.
@@ -47,6 +101,9 @@ Linear regression was used to predict the total deaths due to coronavirus using 
 ---
 
 ### Presentation:
+
+Here is a link to the presentation: https://docs.google.com/presentation/d/1L_n427yuJTxQyCbotBh5jAHsztK0IyvfSN0dtpSNhCQ/edit?usp=sharing  
+
 ---
 
 ### Conclusions and Recommendations:
