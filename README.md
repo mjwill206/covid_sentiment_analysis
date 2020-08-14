@@ -86,6 +86,8 @@ Health data was taken from https://covidtracking.com/api/v1/states/daily.csv and
  
 #### Tableau:
 
+We created a Tableau dashboard to help visualize the information. It can be found here: https://public.tableau.com/views/project_5_15971471559550/COVID-19SocialMediaSentimentAnalysis-July2020?:language=en&:display_count=y&:origin=viz_share_link 
+
 ---
 
 ### Modeling:
