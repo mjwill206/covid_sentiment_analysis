@@ -1,0 +1,511 @@
+﻿State,Policy,Status
+AL ,Status of Reopening,Paused
+AL ,Stay at Home Order,Lifted
+AL ,Mandatory Quarantine for Travelers,-
+AL ,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+AL ,Large Gatherings Ban,Lifted
+AL ,Restaurant Limits,Reopened to Dine-in Service
+AL ,Bar Closures,Reopened
+AL ,Face Covering Requirement,Required for General Public
+AL ,Primary Election Postponement,-
+AL ,Emergency Declaration,Yes
+AK ,Status of Reopening,Proceeding with Reopening
+AK ,Stay at Home Order,Lifted
+AK ,Mandatory Quarantine for Travelers,All Travelers
+AK ,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen
+AK ,Large Gatherings Ban,Lifted
+AK ,Restaurant Limits,Reopened to Dine-in Service
+AK ,Bar Closures,Reopened
+AK ,Face Covering Requirement,Required for Certain Employees
+AK ,Primary Election Postponement,-
+AK ,Emergency Declaration,Yes
+AZ ,Status of Reopening,New Restrictions Imposed
+AZ ,Stay at Home Order,Lifted
+AZ ,Mandatory Quarantine for Travelers,Lifted
+AZ ,Non-Essential Business Closures,New Business Closures or Limits
+AZ ,Large Gatherings Ban,New Limit on Large Gatherings in Place
+AZ ,Restaurant Limits,New Service Limits
+AZ ,Bar Closures,Newly Closed
+AZ ,Face Covering Requirement,Required for Certain Employees; Allows Local Officials to Require for General Public
+AZ ,Primary Election Postponement,-
+AZ ,Emergency Declaration,Yes
+AR ,Status of Reopening,Paused
+AR ,Stay at Home Order,-
+AR ,Mandatory Quarantine for Travelers,Lifted
+AR ,Non-Essential Business Closures,-
+AR ,Large Gatherings Ban,Lifted
+AR ,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+AR ,Bar Closures,Reopened
+AR ,Face Covering Requirement,Required for General Public
+AR ,Primary Election Postponement,-
+AR ,Emergency Declaration,Yes
+CA ,Status of Reopening,New Restrictions Imposed
+CA ,Stay at Home Order,Statewide
+CA ,Mandatory Quarantine for Travelers,-
+CA ,Non-Essential Business Closures,New Business Closures or Limits
+CA ,Large Gatherings Ban,All Gatherings Prohibited
+CA ,Restaurant Limits,Newly Closed to Dine-in Service
+CA ,Bar Closures,Newly Closed
+CA ,Face Covering Requirement,Required for General Public
+CA ,Primary Election Postponement,-
+CA ,Emergency Declaration,Yes
+CO ,Status of Reopening,New Restrictions Imposed
+CO ,Stay at Home Order,Lifted
+CO ,Mandatory Quarantine for Travelers,-
+CO ,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+CO ,Large Gatherings Ban,Expanded to New Limit Below 25
+CO ,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+CO ,Bar Closures,Newly Closed
+CO ,Face Covering Requirement,Required for General Public
+CO ,Primary Election Postponement,-
+CO ,Emergency Declaration,Yes
+CT ,Status of Reopening,Proceeding with Reopening
+CT ,Stay at Home Order,Lifted
+CT ,Mandatory Quarantine for Travelers,From Certain States (New)
+CT ,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+CT ,Large Gatherings Ban,Expanded to New Limit of 25
+CT ,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+CT ,Bar Closures,Closed
+CT ,Face Covering Requirement,Required for General Public
+CT ,Primary Election Postponement,Postponed
+CT ,Emergency Declaration,Yes
+DE ,Status of Reopening,New Restrictions Imposed
+DE ,Stay at Home Order,Lifted
+DE ,Mandatory Quarantine for Travelers,Lifted
+DE ,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+DE ,Large Gatherings Ban,Expanded to New Limit Above 25
+DE ,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+DE ,Bar Closures,New Service Limits
+DE ,Face Covering Requirement,Required for General Public
+DE ,Primary Election Postponement,Postponed
+DE ,Emergency Declaration,Yes
+DC ,Status of Reopening,Proceeding with Reopening
+DC ,Stay at Home Order,Lifted
+DC ,Mandatory Quarantine for Travelers,From Certain States (New)
+DC ,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+DC ,Large Gatherings Ban,Expanded to New Limit Above 25
+DC ,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+DC ,Bar Closures,Closed
+DC ,Face Covering Requirement,Required for General Public
+DC ,Primary Election Postponement,-
+DC ,Emergency Declaration,Yes
+FL ,Status of Reopening,New Restrictions Imposed
+FL ,Stay at Home Order,Lifted
+FL ,Mandatory Quarantine for Travelers,From Certain States
+FL ,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+FL ,Large Gatherings Ban,Lifted
+FL ,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+FL ,Bar Closures,Newly Closed
+FL ,Face Covering Requirement,Required for Certain Employees
+FL ,Primary Election Postponement,-
+FL ,Emergency Declaration,Yes
+GA ,Status of Reopening,Proceeding with Reopening
+GA ,Stay at Home Order,Rolled Back to High Risk Groups
+GA ,Mandatory Quarantine for Travelers,-
+GA ,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen
+GA ,Large Gatherings Ban,Expanded to New Limit Above 25
+GA ,Restaurant Limits,Reopened to Dine-in Service
+GA ,Bar Closures,Reopened
+GA ,Face Covering Requirement,Required for Certain Employees
+GA ,Primary Election Postponement,Postponed
+GA ,Emergency Declaration,Yes
+HI ,Status of Reopening,Proceeding with Reopening
+HI ,Stay at Home Order,Lifted
+HI ,Mandatory Quarantine for Travelers,All Travelers
+HI ,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen
+HI ,Large Gatherings Ban,Expanded to New Limit Above 25
+HI ,Restaurant Limits,Reopened to Dine-in Service
+HI ,Bar Closures,Reopened
+HI ,Face Covering Requirement,Required for General Public
+HI ,Primary Election Postponement,-
+HI ,Emergency Declaration,Yes
+ID,Status of Reopening,Paused
+ID,Stay at Home Order,Lifted
+ID,Mandatory Quarantine for Travelers,Lifted
+ID,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+ID,Large Gatherings Ban,Lifted
+ID,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+ID,Bar Closures,Reopened
+ID,Face Covering Requirement,-
+ID,Primary Election Postponement,-
+ID,Emergency Declaration,Yes
+IL,Status of Reopening,Proceeding with Reopening
+IL,Stay at Home Order,Lifted
+IL,Mandatory Quarantine for Travelers,-
+IL,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+IL,Large Gatherings Ban,Expanded to New Limit Above 25
+IL,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+IL,Bar Closures,Reopened
+IL,Face Covering Requirement,Required for General Public
+IL,Primary Election Postponement,-
+IL,Emergency Declaration,Yes
+IN,Status of Reopening,Paused
+IN,Stay at Home Order,Lifted
+IN,Mandatory Quarantine for Travelers,-
+IN,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+IN,Large Gatherings Ban,Expanded to New Limit Above 25
+IN,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+IN,Bar Closures,Reopened
+IN,Face Covering Requirement,Required for General Public
+IN,Primary Election Postponement,Postponed
+IN,Emergency Declaration,Yes
+IA,Status of Reopening,Reopened
+IA,Stay at Home Order,-
+IA,Mandatory Quarantine for Travelers,-
+IA,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen
+IA,Large Gatherings Ban,Expanded to New Limit Above 25
+IA,Restaurant Limits,Reopened to Dine-in Service
+IA,Bar Closures,Reopened
+IA,Face Covering Requirement,Allows Local Officals to Require for General Public
+IA,Primary Election Postponement,-
+IA,Emergency Declaration,Yes
+KS,Status of Reopening,Reopened
+KS,Stay at Home Order,Lifted
+KS,Mandatory Quarantine for Travelers,From Certain States
+KS,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen
+KS,Large Gatherings Ban,Lifted
+KS,Restaurant Limits,Reopened to Dine-in Service
+KS,Bar Closures,Reopened
+KS,Face Covering Requirement,Required for General Public
+KS,Primary Election Postponement,-
+KS,Emergency Declaration,Yes
+KY,Status of Reopening,New Restrictions Imposed
+KY,Stay at Home Order,Lifted
+KY,Mandatory Quarantine for Travelers,Lifted
+KY,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen
+KY,Large Gatherings Ban,New Limit on Large Gatherings in Place
+KY,Restaurant Limits,New Service Limits
+KY,Bar Closures,Newly Closed
+KY,Face Covering Requirement,Required for General Public
+KY,Primary Election Postponement,Postponed
+KY,Emergency Declaration,Yes
+LA,Status of Reopening,New Restrictions Imposed
+LA,Stay at Home Order,Lifted
+LA,Mandatory Quarantine for Travelers,-
+LA,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+LA,Large Gatherings Ban,New Limit on Large Gatherings in Place
+LA,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+LA,Bar Closures,Newly Closed
+LA,Face Covering Requirement,Required for General Public
+LA,Primary Election Postponement,Postponed
+LA,Emergency Declaration,Yes
+ME,Status of Reopening,Proceeding with Reopening
+ME,Stay at Home Order,Lifted
+ME,Mandatory Quarantine for Travelers,All Travelers
+ME,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen
+ME,Large Gatherings Ban,Expanded to New Limit Above 25
+ME,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+ME,Bar Closures,Closed
+ME,Face Covering Requirement,Required for General Public
+ME,Primary Election Postponement,Postponed
+ME,Emergency Declaration,Yes
+MD,Status of Reopening,Paused
+MD,Stay at Home Order,Lifted
+MD,Mandatory Quarantine for Travelers,All Travelers
+MD,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+MD,Large Gatherings Ban,Lifted
+MD,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+MD,Bar Closures,Reopened
+MD,Face Covering Requirement,Required for General Public
+MD,Primary Election Postponement,Postponed
+MD,Emergency Declaration,Yes
+MA,Status of Reopening,Proceeding with Reopening
+MA,Stay at Home Order,Rolled Back to High Risk Groups
+MA,Mandatory Quarantine for Travelers,All Travelers
+MA,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen
+MA,Large Gatherings Ban,Expanded to New Limit of 25
+MA,Restaurant Limits,Reopened to Dine-in Service
+MA,Bar Closures,Closed
+MA,Face Covering Requirement,Required for General Public
+MA,Primary Election Postponement,-
+MA,Emergency Declaration,Yes
+MI,Status of Reopening,New Restrictions Imposed
+MI,Stay at Home Order,Lifted
+MI,Mandatory Quarantine for Travelers,-
+MI,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen
+MI,Large Gatherings Ban,New Limit on Large Gatherings in Place
+MI,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+MI,Bar Closures,Newly Closed
+MI,Face Covering Requirement,Required for General Public
+MI,Primary Election Postponement,-
+MI,Emergency Declaration,Yes
+MN,Status of Reopening,Proceeding with Reopening
+MN,Stay at Home Order,Lifted
+MN,Mandatory Quarantine for Travelers,-
+MN,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen
+MN,Large Gatherings Ban,>10 People Prohibited
+MN,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+MN,Bar Closures,Reopened
+MN,Face Covering Requirement,Required for General Public
+MN,Primary Election Postponement,-
+MN,Emergency Declaration,Yes
+MS,Status of Reopening,New Restrictions Imposed
+MS,Stay at Home Order,Lifted
+MS,Mandatory Quarantine for Travelers,-
+MS,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+MS,Large Gatherings Ban,New Limit on Large Gatherings in Place
+MS,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+MS,Bar Closures,New Service Limits
+MS,Face Covering Requirement,Required for General Public
+MS,Primary Election Postponement,Postponed
+MS,Emergency Declaration,Yes
+MO ,Status of Reopening,Reopened
+MO ,Stay at Home Order,Lifted
+MO ,Mandatory Quarantine for Travelers,-
+MO ,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen
+MO ,Large Gatherings Ban,Lifted
+MO ,Restaurant Limits,Reopened to Dine-in Service
+MO ,Bar Closures,Reopened
+MO ,Face Covering Requirement,-
+MO ,Primary Election Postponement,-
+MO ,Emergency Declaration,Yes
+MT ,Status of Reopening,Proceeding with Reopening
+MT ,Stay at Home Order,Lifted
+MT ,Mandatory Quarantine for Travelers,Lifted
+MT ,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+MT ,Large Gatherings Ban,Expanded to New Limit Above 25
+MT ,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+MT ,Bar Closures,Reopened
+MT ,Face Covering Requirement,Required for General Public
+MT ,Primary Election Postponement,-
+MT ,Emergency Declaration,Yes
+NE,Status of Reopening,Proceeding with Reopening
+NE,Stay at Home Order,-
+NE,Mandatory Quarantine for Travelers,Rolled Back to International Travel
+NE,Non-Essential Business Closures,-
+NE,Large Gatherings Ban,Expanded to New Limit of 25
+NE,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+NE,Bar Closures,Reopened
+NE,Face Covering Requirement,Required for Certain Employees
+NE,Primary Election Postponement,-
+NE,Emergency Declaration,Yes
+NV,Status of Reopening,New Restrictions Imposed
+NV,Stay at Home Order,Lifted
+NV,Mandatory Quarantine for Travelers,-
+NV,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+NV,Large Gatherings Ban,Expanded to New Limit Above 25
+NV,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+NV,Bar Closures,Reopened
+NV,Face Covering Requirement,Required for General Public
+NV,Primary Election Postponement,-
+NV,Emergency Declaration,Yes
+NH,Status of Reopening,Proceeding with Reopening
+NH,Stay at Home Order,Lifted
+NH,Mandatory Quarantine for Travelers,-
+NH,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+NH,Large Gatherings Ban,Lifted
+NH,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+NH,Bar Closures,Reopened
+NH,Face Covering Requirement,Required for Certain Employees
+NH,Primary Election Postponement,-
+NH,Emergency Declaration,Yes
+NJ,Status of Reopening,New Restrictions Imposed
+NJ,Stay at Home Order,Lifted
+NJ,Mandatory Quarantine for Travelers,From Certain States (New)
+NJ,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+NJ,Large Gatherings Ban,New Limit on Large Gatherings in Place
+NJ,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+NJ,Bar Closures,Closed
+NJ,Face Covering Requirement,Required for General Public
+NJ,Primary Election Postponement,Postponed
+NJ,Emergency Declaration,Yes
+NM,Status of Reopening,New Restrictions Imposed
+NM,Stay at Home Order,Lifted
+NM,Mandatory Quarantine for Travelers,All Air Travelers
+NM,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+NM,Large Gatherings Ban,Expanded to New Limit Below 25
+NM,Restaurant Limits,New Service Limits
+NM,Bar Closures,Closed
+NM,Face Covering Requirement,Required for Certain Employees
+NM,Primary Election Postponement,-
+NM,Emergency Declaration,Yes
+NY,Status of Reopening,Proceeding with Reopening
+NY,Stay at Home Order,Rolled Back to High Risk Groups
+NY,Mandatory Quarantine for Travelers,From Certain States (New)
+NY,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+NY,Large Gatherings Ban,Expanded to New Limit Above 25
+NY,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+NY,Bar Closures,Reopened
+NY,Face Covering Requirement,Required for General Public
+NY,Primary Election Postponement,Postponed
+NY,Emergency Declaration,Yes
+NC,Status of Reopening,New Restrictions Imposed
+NC,Stay at Home Order,Lifted
+NC,Mandatory Quarantine for Travelers,-
+NC,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+NC,Large Gatherings Ban,>10 People Prohibited
+NC,Restaurant Limits,New Service Limits
+NC,Bar Closures,Closed
+NC,Face Covering Requirement,Required for General Public
+NC,Primary Election Postponement,-
+NC,Emergency Declaration,Yes
+ND,Status of Reopening,Reopened
+ND,Stay at Home Order,-
+ND,Mandatory Quarantine for Travelers,All Travelers
+ND,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen
+ND,Large Gatherings Ban,-
+ND,Restaurant Limits,Reopened to Dine-in Service
+ND,Bar Closures,Reopened
+ND,Face Covering Requirement,-
+ND,Primary Election Postponement,-
+ND,Emergency Declaration,Yes
+OH,Status of Reopening,Proceeding with Reopening
+OH,Stay at Home Order,Lifted
+OH,Mandatory Quarantine for Travelers,Lifted
+OH,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+OH,Large Gatherings Ban,Expanded to New Limit Below 25
+OH,Restaurant Limits,Reopened to Dine-in Service
+OH,Bar Closures,New Service Limits
+OH,Face Covering Requirement,Required for General Public
+OH,Primary Election Postponement,Postponed
+OH,Emergency Declaration,Yes
+OK,Status of Reopening,Reopened
+OK,Stay at Home Order,Lifted
+OK,Mandatory Quarantine for Travelers,Lifted
+OK,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+OK,Large Gatherings Ban,Lifted
+OK,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+OK,Bar Closures,Reopened
+OK,Face Covering Requirement,-
+OK,Primary Election Postponement,-
+OK,Emergency Declaration,Yes
+OR,Status of Reopening,New Restrictions Imposed
+OR,Stay at Home Order,Lifted
+OR,Mandatory Quarantine for Travelers,-
+OR,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen
+OR,Large Gatherings Ban,New Limit on Large Gatherings in Place
+OR,Restaurant Limits,New Service Limits
+OR,Bar Closures,New Service Limits
+OR,Face Covering Requirement,Required for General Public
+OR,Primary Election Postponement,-
+OR,Emergency Declaration,Yes
+PA,Status of Reopening,New Restrictions Imposed
+PA,Stay at Home Order,Lifted
+PA,Mandatory Quarantine for Travelers,-
+PA,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+PA,Large Gatherings Ban,New Limit on Large Gatherings in Place
+PA,Restaurant Limits,New Service Limits
+PA,Bar Closures,Newly Closed
+PA,Face Covering Requirement,Required for General Public
+PA,Primary Election Postponement,-
+PA,Emergency Declaration,Yes
+RI,Status of Reopening,Proceeding with Reopening
+RI,Stay at Home Order,Lifted
+RI,Mandatory Quarantine for Travelers,Rolled Back to Certain States
+RI,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+RI,Large Gatherings Ban,Expanded to New Limit Below 25
+RI,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+RI,Bar Closures,Reopened
+RI,Face Covering Requirement,Required for General Public
+RI,Primary Election Postponement,Postponed
+RI,Emergency Declaration,Yes
+SC,Status of Reopening,New Restrictions Imposed
+SC,Stay at Home Order,Lifted
+SC,Mandatory Quarantine for Travelers,Lifted
+SC,Non-Essential Business Closures,New Business Closures or Limits
+SC,Large Gatherings Ban,Lifted
+SC,Restaurant Limits,New Service Limits
+SC,Bar Closures,New Service Limits
+SC,Face Covering Requirement,Allows Local Officals to Require for General Public
+SC,Primary Election Postponement,-
+SC,Emergency Declaration,Yes
+SD,Status of Reopening,Reopened
+SD,Stay at Home Order,-
+SD,Mandatory Quarantine for Travelers,-
+SD,Non-Essential Business Closures,-
+SD,Large Gatherings Ban,Lifted
+SD,Restaurant Limits,-
+SD,Bar Closures,Reopened
+SD,Face Covering Requirement,-
+SD,Primary Election Postponement,-
+SD,Emergency Declaration,Yes
+TN,Status of Reopening,Proceeding with Reopening
+TN,Stay at Home Order,Lifted
+TN,Mandatory Quarantine for Travelers,-
+TN,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen
+TN,Large Gatherings Ban,Expanded to New Limit Above 25
+TN,Restaurant Limits,Reopened to Dine-in Service
+TN,Bar Closures,Reopened
+TN,Face Covering Requirement,Allows Local Officals to Require for General Public
+TN,Primary Election Postponement,-
+TN,Emergency Declaration,Yes
+TX,Status of Reopening,New Restrictions Imposed
+TX,Stay at Home Order,Lifted
+TX,Mandatory Quarantine for Travelers,Lifted
+TX,Non-Essential Business Closures,New Business Closures or Limits
+TX,Large Gatherings Ban,New Limit on Large Gatherings in Place
+TX,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+TX,Bar Closures,Newly Closed
+TX,Face Covering Requirement,Required for General Public
+TX,Primary Election Postponement,-
+TX,Emergency Declaration,Yes
+UT,Status of Reopening,Proceeding with Reopening
+UT,Stay at Home Order,Lifted
+UT,Mandatory Quarantine for Travelers,Lifted
+UT,Non-Essential Business Closures,-
+UT,Large Gatherings Ban,Expanded to New Limit Above 25
+UT,Restaurant Limits,Reopened to Dine-in Service
+UT,Bar Closures,Reopened
+UT,Face Covering Requirement,Required for Certain Employees
+UT,Primary Election Postponement,-
+UT,Emergency Declaration,Yes
+VT,Status of Reopening,Proceeding with Reopening
+VT,Stay at Home Order,Lifted
+VT,Mandatory Quarantine for Travelers,Rolled Back to Certain States
+VT,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+VT,Large Gatherings Ban,Expanded to New Limit of 25
+VT,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+VT,Bar Closures,Reopened
+VT,Face Covering Requirement,Required for General Public
+VT,Primary Election Postponement,-
+VT,Emergency Declaration,Yes
+VA,Status of Reopening,Proceeding with Reopening
+VA,Stay at Home Order,Lifted
+VA,Mandatory Quarantine for Travelers,-
+VA,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+VA,Large Gatherings Ban,Expanded to New Limit Above 25
+VA,Restaurant Limits,Reopened to Dine-in Service
+VA,Bar Closures,Closed
+VA,Face Covering Requirement,Required for General Public
+VA,Primary Election Postponement,-
+VA,Emergency Declaration,Yes
+WA,Status of Reopening,Paused
+WA,Stay at Home Order,Lifted
+WA,Mandatory Quarantine for Travelers,-
+WA,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen
+WA,Large Gatherings Ban,Other
+WA,Restaurant Limits,New Service Limits
+WA,Bar Closures,Closed
+WA,Face Covering Requirement,Required for General Public
+WA,Primary Election Postponement,-
+WA,Emergency Declaration,Yes
+WV,Status of Reopening,New Restrictions Imposed
+WV,Stay at Home Order,Lifted
+WV,Mandatory Quarantine for Travelers,Lifted
+WV,Non-Essential Business Closures,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+WV,Large Gatherings Ban,New Limit on Large Gatherings in Place
+WV,Restaurant Limits,Reopened to Dine-in Service with Capacity Limits
+WV,Bar Closures,Reopened
+WV,Face Covering Requirement,Required for General Public
+WV,Primary Election Postponement,Postponed
+WV,Emergency Declaration,Yes
+WI,Status of Reopening,Reopened
+WI,Stay at Home Order,Lifted
+WI,Mandatory Quarantine for Travelers,-
+WI,Non-Essential Business Closures,All Non-Essential Businesses Permitted to Reopen
+WI,Large Gatherings Ban,Lifted
+WI,Restaurant Limits,Reopened to Dine-in Service
+WI,Bar Closures,Reopened
+WI,Face Covering Requirement,Required for General Public
+WI,Primary Election Postponement,-
+WI,Emergency Declaration,Yes
+WY,Status of Reopening,Proceeding with Reopening
+WY,Stay at Home Order,-
+WY,Mandatory Quarantine for Travelers,Lifted
+WY,Non-Essential Business Closures,-
+WY,Large Gatherings Ban,Expanded to New Limit Above 25
+WY,Restaurant Limits,Reopened to Dine-in Service
+WY,Bar Closures,Reopened
+WY,Face Covering Requirement,Required for Certain Employees
+WY,Primary Election Postponement,-
+WY,Emergency Declaration,Yes
