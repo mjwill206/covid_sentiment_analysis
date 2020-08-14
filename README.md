@@ -9,13 +9,13 @@ The COVID-19 response has been largely regional and state-based in nature. Some 
 ---
 
 ### Contents:
-- [Data Sources, Cleaning, Dictionaries & EDA](#Data_Sources)
+- [Data Sources, Cleaning, Dictionaries & Exploratory Data Analysis (EDA)](#Data_Sources,_Cleaning,_Dictionaries_Exploratory_Data_Analysis_(EDA))
 - [Modeling](#Modeling)
 - [Presentation](#Presentation)
 - [Conclusions and Recommendations](#Conclusions_and_Recommendations)
 
 ---
-### Data Cleaning and Exploratory Data Analysis (EDA):
+### Data Sources, Cleaning, Dictionaries & Exploratory Data Analysis (EDA):
 #### Twitter Data and EDA:
 We gathered Twitter data from https://ieee-dataport.org/open-access/coronavirus-covid-19-geo-tagged-tweets-dataset which is a subset of https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset. Both of these datasets were put together by Rabindra Lamsal School of Computer and Systems Sciences, JNU. We decided that we would use the subset because our specific problem statement requires geographic information and the subset filtered out non-geotagged tweets for us. The data taken from this site came in the form of 1 csv of tweet IDs per day. A hydrator was required to gather all the data back in by using the tweet IDs. The hydrator we used was from Documenting the Now. (2020). Hydrator [Computer Software]. Retrieved from https://github.com/docnow/hydrator. After retrieving all of the data from the hydrator, the next step was to concatenate all of the daily csvs into one larger July csv. We found that most of the columns of data that we retrieved from the hydrator was unnecessary and kept only information pertaining to location and text. Additionally, we removed all of the remaining tweets that were not from U.S. states.
  
