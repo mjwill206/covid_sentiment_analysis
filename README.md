@@ -9,7 +9,7 @@ The COVID-19 response has been largely regional and state-based in nature. Some 
 ---
 
 ### Contents:
-- [Data Sources, Cleaning, Dictionaries & Exploratory Data Analysis (EDA)](#Data_Sources,_Cleaning,_Dictionaries_Exploratory_Data_Analysis_(EDA))
+- [Data Sources, Cleaning, Dictionaries & Exploratory Data Analysis (EDA)](#Data_Sources,_Cleaning,_Dictionaries_&_Exploratory_Data_Analysis_EDA)
 - [Modeling](#Modeling)
 - [Presentation](#Presentation)
 - [Conclusions and Recommendations](#Conclusions_and_Recommendations)
