@@ -9,10 +9,10 @@ The COVID-19 response has been largely regional and state-based in nature. Some 
 ---
 
 ### Contents:
-- [Data Sources, Cleaning, Dictionaries & Exploratory Data Analysis (EDA)](#Data_Sources,_Cleaning,_Dictionaries_&_Exploratory_Data_Analysis_EDA)
+- [Data Sources, Cleaning, Dictionaries & Exploratory Data Analysis (EDA)](#Data-Sources,-Cleaning,-Dictionaries-&-Exploratory-Data-Analysis-EDA)
 - [Modeling](#Modeling)
 - [Presentation](#Presentation)
-- [Conclusions and Recommendations](#Conclusions_and_Recommendations)
+- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 
 ---
 ### Data Sources, Cleaning, Dictionaries & Exploratory Data Analysis (EDA):
@@ -111,14 +111,3 @@ Here is a link to the presentation: https://docs.google.com/presentation/d/1L_n4
 ### Conclusions and Recommendations:
 
 COVID-19 continues to evolve as more information is gathered and new policies are set in place. Some recommendations and next steps for the continuation of this project include, but are not limited to, exploring data prior to July 2020 as well as in future months, analysing the policy information by state, further exploring correlation between health and policy mandates, and deeper exploration between the correlation of sentiment scores and policy information. Additionally, Reddit and Twitter were the only social media platforms assessed in the project. Future projects may find it beneficial to explore other social media platforms.
- 
-
- 
- 
- 
-
-# covid_sentiment_analysis
-# covid_sentiment_analysis
-# covid_sentiment_analysis
-# covid_sentiment_analysis
-# covid_sentiment_analysis
