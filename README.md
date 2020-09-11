@@ -1,4 +1,4 @@
-# Project 5: Sentiment Analysis of COVID-19 Social Media Posts
+# Sentiment Analysis of COVID-19 Social Media Posts
 #### Project completed by Paulene Barnes, Ari Kerdell & Matt Williams
 #### August 14th, 2020
  
